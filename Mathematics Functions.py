@@ -1,0 +1,8 @@
+a = int(input("Enter first number"))
+b = int(input("Enter Second number"))
+print("sum:",a+b)
+print("subtraction:",a-b)
+print("product:",a*b)
+print("Quotient(natural number): ",a//b)
+print("Quotient(decimal value): ",a/b)
+print("Remainder:",a%b)
